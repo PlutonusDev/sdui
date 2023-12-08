@@ -1,0 +1,26 @@
+{
+  "name": "@plutonusdev/sdui",
+  "version": "dev",
+  "description": "Stable Diffusion goes brrt",
+  "author": "Joshua Hughes <plutonus.stream@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/plutonusdev/sdui/issues"
+  },
+  "homepage": "https://github.com/plutonusdev/sdui",
+  "license": "AGPLv3",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plutonusdev/sdui.git"
+  },
+  "devDependencies": {
+    "esbuild": "^0.18.15",
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-json": "^3.1.0"
+  }
+}
