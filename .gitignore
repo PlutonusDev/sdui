@@ -38,9 +38,10 @@ cache
 /*.txt
 /*.mp3
 /*.lnk
-!webui.bat
+!START.bat
 !webui.sh
 !package.json
+!requirements.txt
 
 # all dynamic stuff
 /extensions/**/*
